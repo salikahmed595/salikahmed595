@@ -4,7 +4,7 @@
 
 <h1> Hi, I'm Salik Ahmed</h1>
 
-<h3> AI Engineer · Automation Architect · AI Product Builder</h3>
+<h3> AI Product Builder</h3>
 
 <p><em>I build intelligent AI products, autonomous voice agents & end-to-end automation systems<br/>that help businesses scale smarter — not harder.</em></p>
 
